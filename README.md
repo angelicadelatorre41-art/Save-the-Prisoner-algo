@@ -1,1 +1,1 @@
-# Save-the-Prisoner-algo
+# Save-the-Prisoner-algo This program solves the Save the Prisoner problem. It distributes m sweets starting at chair s around n prisoners in a circle and calculates which prisoner gets the last sweet using modular arithmetic.
